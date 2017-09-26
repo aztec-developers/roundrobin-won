@@ -1,7 +1,5 @@
 # roundrobin-won
-The sound dogs make
-
-
+Winners
 
 Build a round robin team building application that takes in two CSV files:
   Attendance File: Everyone at the current meeting
